@@ -1,6 +1,4 @@
 # XCPC-KAOYAN
-2024XCPC考研经验贴汇总
-
 **XCPC计算机考研交流群**
 ![8c1d396fe19fc91844ed7c159c6d2abb.png](https://wojiecihuo-1306847107.cos.ap-nanjing.myqcloud.com/obsidian/8c1d396fe19fc91844ed7c159c6d2abb.png)
 
